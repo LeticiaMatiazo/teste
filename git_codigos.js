@@ -27,4 +27,4 @@
 // git config user.name "MEU_NOME" => Configura o nome de usuário;
 // git config user.email "MEUEMAIL@EMAIL.COM" => Configura o email do usuário;
 
-console.log("Letícia Matiazo")
+//console.log("Letícia Matiazo")
